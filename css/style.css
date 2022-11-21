@@ -1,5 +1,7 @@
 
 
+
+
 nav{
     background-color:#464848;
     height: 25px;
@@ -126,4 +128,21 @@ h1{
 article{
     background-color:#464848;
 }
-#maquette{}
+
+#imgpc
+{
+    width: 200px;
+    height: 200px;
+}
+
+#imgpcpor
+{
+    width: 200px;
+    height: 200px;
+}
+
+#imgcasque
+{
+    width: 200px;
+    height: 200px;
+}
